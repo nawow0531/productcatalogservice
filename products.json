@@ -85,16 +85,15 @@
             "categories": ["kitchen"]
         },
         {
-            "id": "9SIQT8TOJO",
-            "name": "Bamboo Glass Jar",
-            "description": "This bamboo glass jar can hold 57 oz (1.7 l) and is perfect for any kitchen.",
-            "picture": "/static/img/products/bamboo-glass-jar.jpg",
+            "id": "2ZYFJ3GM2N",
+            "name": "Film Camera",
+            "description": "This camera looks like it's a film camera, but it's actually digital.",
+            "picture": "/static/img/products/film-camera.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
-                "units": 5,
-                "nanos": 490000000
+                "units": 2245
             },
-            "categories": ["kitchen"]
+            "categories": ["photography", "vintage"]
         },
         {
             "id": "6E92ZMYYFZ",
