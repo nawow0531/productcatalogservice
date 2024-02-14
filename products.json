@@ -36,6 +36,17 @@
             },
             "categories": ["accessories"]
         },
+       {
+            "id": "2ZYFJ3GM2N",
+            "name": "Film Camera",
+            "description": "This camera looks like it's a film camera, but it's actually digital.",
+            "picture": "/static/img/products/film-camera.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 2245
+            },
+            "categories": ["photography", "vintage"]
+        },        
         {
             "id": "L9ECAV7KIM",
             "name": "Loafers",
